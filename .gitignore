@@ -28,3 +28,6 @@ replay_pid*
 
 # Ignore gradle files
 .gradle/
+
+# Ignore build files
+build/
